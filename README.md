@@ -58,37 +58,41 @@ Acá dejamos unas muestra de la aplicación funcionan de manera local en modo de
 ### Inicializando el servidor express backend.
 <br>
 
-<img src='./whitesoft-app/backend-express/images/demow1.png'>
+<img src='./images/demow1.png'>
 <br>
 
 ### Inicializando el servidor react frontend.
 
-<img src='./whitesoft-app/backend-express/images/demow2.png'>
+<img src='./images/demow2.png'>
 <br>
 
 ### Aplicación react frontend. 
 <br>
 <p>De acuerdo a los requerimientos dos campos uno con el fullname y el otro una lista desplgable de paises, que se apriviona de la API `http://battuta.medunes.net/api/`. Ambos campos son requeridos para proceder enviar la data al backend</p>
 
-<img src='./whitesoft-app/backend-express/images/demow3.png'>
+<img src='./images/demow3.png'>
 <br>
 
 ### Desplegando la lista de paises
 <br>
-<img src='./whitesoft-app/backend-express/images/demow4.png'>
+<img src='./images/demow4.png'>
 <br>
 
 ### Enviando los datos
 <br>
-<img src='./whitesoft-app/backend-express/images/demow6.png'>
+<img src='./images/demow6.png'>
 <br>
 
 ### Recibiendo la data en la Base de datos.
 <br>
-<img src='./whitesoft-app/backend-express/images/demow7.png'>
+<img src='./images/demow7.png'>
+<br>
 <br>
 
-
-
+### Despleiegue de la Aplicación en Heroku
+<br>
+<img src='./images/demow9.png'>
+<br>
+<img src='./images/demow8.png'>
 
 
