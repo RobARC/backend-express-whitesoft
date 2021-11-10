@@ -89,7 +89,7 @@ Acá dejamos unas muestra de la aplicación funcionan de manera local en modo de
 <br>
 <br>
 
-### Despleiegue de la Aplicación en Heroku
+### Despliegue de la Aplicación en Heroku
 <br>
 <img src='./images/demow9.png'>
 <br>
