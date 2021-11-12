@@ -51,7 +51,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 <br>
 
-Acá dejamos unas muestra de la aplicación funcionan de manera local en modo desarrllo.
+Acá dejamos unas muestra de la aplicación funcionando de manera local en modo desarrallo.
 
 # DEMO Locals
 
